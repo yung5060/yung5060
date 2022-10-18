@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=JellyDev&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=JellyDev&fontSize=50)
 
 ## Why Jelly?
 ### 🤷‍♂️ Dunno 👻
